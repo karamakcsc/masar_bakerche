@@ -144,7 +144,6 @@ app_license = "mit"
 # 		"on_trash": "method"
 # 	}
 # }
-
 # Scheduled Tasks
 # ---------------
 
